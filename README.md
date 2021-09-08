@@ -7,6 +7,6 @@
 <p>
 Ниже по ссылкам информация о том как это все работает и последовательность сборки:
 <br>
-####[Как работает](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20it%20works/README.md)
+#### [Как работает] (https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20it%20works/README.md)
 <p>
-####[Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
+#### [Как собрать] (https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
