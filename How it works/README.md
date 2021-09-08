@@ -2,10 +2,11 @@
 
 + Входной каскад
 + Каскад перегруза
-+ Микшер
 + Гейт конвертер
-+ Фильтр управляемый напряжением
 + Генератор огибающей (Энвелоп)
++ Фильтр управляемый напряжением
++ Микшер
+
 
 ![Block Scheme](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/Image/Blank%20diagram.jpeg)
 
