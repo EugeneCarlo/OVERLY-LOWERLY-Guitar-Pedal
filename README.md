@@ -3,4 +3,4 @@
 Проект гитарного фильтра низких частот с генератором огибающей и перегрузом. <br>
 Изначально проект задумывался как гитарный около-синтезатор, но в следствии был переработан. <br>
 Основной функционал изначальной версии был сохранен, но все же решил сохранить натуральное звучание гитары. <br>
-![Pedal]https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/Image/Pedal.jpg?raw=true
+![Pedal](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/Image/Pedal.jpg)
