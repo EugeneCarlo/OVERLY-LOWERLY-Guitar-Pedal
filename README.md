@@ -12,4 +12,4 @@
 <p>
 #### [Как работает](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20it%20works/README.md)
 <p>
-[link text](http://dev.nodeca.com)
+<a href="(https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/)">Как собрать</a>
