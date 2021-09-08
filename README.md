@@ -30,3 +30,5 @@
 ### [Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
 
 ### [Как работает](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20it%20works/README.md)
+
+### [Список комплектующих](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/BOM/BOM_82x86mm.csv)
