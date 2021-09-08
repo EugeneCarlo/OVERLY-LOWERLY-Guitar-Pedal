@@ -1,1 +1,3 @@
-# OVERLY-LOWERLY-Guitar-Pedal-
+# OVERLY-LOWERLY (Guitar Pedal)
+
+Проект гитарного фильтра низких частот с генератором огибающей и перегрузом
