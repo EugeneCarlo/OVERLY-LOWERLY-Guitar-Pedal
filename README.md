@@ -34,3 +34,8 @@
 ### [Список комплектующих](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/BOM/BOM_82x86mm.csv)
 
 ### [GERBER для заказа плат](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/PCB/Gerber_82x86mm.zip)
+
+
+![PCB Top](PCB/Top%20layer.png)
+
+![PCB Bottom](PCB/Bottom%20layer.png)
