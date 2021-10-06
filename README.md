@@ -35,8 +35,8 @@
 
 ### [GERBER для заказа плат](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/PCB/Gerber_82x86mm.zip)
 
+### [Видео работы](https://www.youtube.com/watch?v=Q6SMLJXxsho)
 
-![Видео](https://www.youtube.com/watch?v=Q6SMLJXxsho)
 
 
 ![PCB Top](PCB/Top%20layer.png)
