@@ -96,7 +96,7 @@
 | SPDT (On-On) | AR/AD MODE | 1 шт |
 | SPDT (On-On) | AR REPEAT | 1 шт |
 | SPDT (On-On) | AUTO | 1 шт |
-| SPST (MOMENTORY) | AUTO | 1 шт |
+| SPST (MOMENTORY) | GATE | 1 шт |
 | 3PDT (On-On) | BYPASS | 1 шт |
 
 ## Гнезда
