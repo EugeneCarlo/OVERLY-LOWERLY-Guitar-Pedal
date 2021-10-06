@@ -37,7 +37,7 @@
 
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Q6SMLJXxsho)
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=Q6SMLJXxsho)
 
 ![PCB Top](PCB/Top%20layer.png)
 
