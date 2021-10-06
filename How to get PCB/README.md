@@ -24,4 +24,4 @@
 
 ![checkout](../Image/Screenshot_915.png)
 
-Теперь остается только ждать и переходить к разделу #[Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
+Теперь остается только ждать и переходить к разделу ##### [Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
