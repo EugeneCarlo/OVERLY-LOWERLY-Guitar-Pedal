@@ -1,5 +1,5 @@
 Плату можно заказать на любом удобном сайте по производству печатных плат, покажу на примере jlcpcb.com так как один из самых доступных сервисов по цене для россии, платы довольно быстро приходят и хорошего качества.<p>
-Для начала необходимо скачать ![GERBER](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/PCB/Gerber_82x86mm.zip файл по ссылке и сохранить:<br>
+Для начала необходимо скачать [GERBER](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/PCB/Gerber_82x86mm.zip) файл по ссылке и сохранить:<br>
 
 ![gerber](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/Image/Screenshot_910.png)
 
