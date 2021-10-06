@@ -94,9 +94,9 @@
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
 | SPDT (On-On) | AR/AD MODE | 1 шт |
-| SPDT (On-On) | AR REPEAT | 1 шт |
-| SPDT (On-On) | AUTO | 1 шт |
-| SPST (MOMENTORY) | GATE | 1 шт |
+| SPDT (On-On) | AD REPEAT | 1 шт |
+| SPDT (On-On) | AUTO GATE| 1 шт |
+| SPST (MOMENTORY) | FOOT SW GATE | 1 шт |
 | 3PDT (On-On) | BYPASS | 1 шт |
 
 ## Гнезда
